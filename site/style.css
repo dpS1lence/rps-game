@@ -1,0 +1,28 @@
+img{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    transition: transform 3s ease-in-out;
+}
+
+.area{
+    width: 1400px;
+    height: 940px;
+    background-image: url(bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 200px;
+}
+
+.field{
+    position: relative;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 300px;
+    padding-bottom: 100px;
+    height: 500px;
+}
+.k0k{
+    position: absolute;
+}
